@@ -2,7 +2,7 @@
 
 A simple project about Bioinformatics, applying basic DNA/RNA sequence analysis
 
-<img src="/home/cyber/Desktop/Bioinformatics/carbon(2).png" alt="carbon(2)" style="zoom: 50%;" />
+<img src="https://github.com/maleksal/bioinformatics-dna/blob/main/carbon(2).png" alt="carbon(2)" style="zoom: 50%;" />
 
 
 
